@@ -1,14 +1,4 @@
-# Required packages
-pkgs <- c("ratdat", "tidyverse", "lubridate")
-
-# Check if installed
-installed_pkgs <- pkgs %in% rownames(installed.packages())
-
-# If not, install
-if(any(installed_pkgs == FALSE)) {
-  install.packages(pkgs[!installed_pkgs])
-}
-
+### Workshop Wednesday: Combining datasets with 'dplyr'
 library(ratdat)
 library(tidyverse)
 library(lubridate)
@@ -28,6 +18,7 @@ problems(surveys_new)
 # Note: not a csv
 species_new <- read_delim("data_raw/species_new.txt",
                           delim = " ", quote = '"')
+
 ### Read in new plots table
 plots_new <- read_csv("data_raw/plots_new.csv")
 
