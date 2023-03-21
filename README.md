@@ -8,6 +8,6 @@ To get started:
 
 2.) Open the associated RStudio project by clicking on 'dplyr-joins.Rproj' 
 
-3.) In your R console, type `renv::restore()`. This will install the correct package versions needed for this workshop. If the `renv` package is new to you, [this](https://rstudio.github.io/renv/articles/renv.html) is a nice introduction
+3.) In your R console, type `renv::restore()`, which will install the correct package versions needed for this workshop. If the `renv` package is new to you, [this](https://rstudio.github.io/renv/articles/renv.html) is a nice introduction
 
 4.) Open '01-wrangle-data.R', the starter script for the code-along portion of the workshop
