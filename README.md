@@ -6,7 +6,7 @@ The associated [slide deck](https://viz.datascience.arizona.edu/dplyr-joins-slid
 
 ### Instructions
 
-1.) Clone or download this repository
+1.) Obtain repository locally via cloning, downloading the .zip file, or using `usethis::use_course("https://github.com/cct-datascience/dplyr-joins")`
 
 2.) Open the associated RStudio project by clicking on 'dplyr-joins.Rproj'
 
@@ -14,4 +14,4 @@ The associated [slide deck](https://viz.datascience.arizona.edu/dplyr-joins-slid
 
 4.) Open '01-wrangle-data.R', the starter script for the code-along portion of the workshop
 
-Source code for the slide deck and the completed scripts are available in this [workshop folder](https://github.com/cct-datascience/CALS-workshops/tree/main/202303-dplyr-joins) of the CALS-workshops repository. 
+Source code for the slide deck and the completed scripts are available in this [workshop folder](https://github.com/cct-datascience/CALS-workshops/tree/main/202303-dplyr-joins) of the CALS-workshops repository.
