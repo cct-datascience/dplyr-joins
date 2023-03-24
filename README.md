@@ -6,7 +6,7 @@ The associated [slide deck](https://viz.datascience.arizona.edu/dplyr-joins-slid
 
 ### Instructions
 
-1.) Obtain repository locally via cloning, downloading the .zip file, or using `usethis::use_course("https://github.com/cct-datascience/dplyr-joins")`
+1.) Obtain repository locally via cloning, downloading the .zip file, or using `usethis::use_course("cct-datascience/dplyr-joins")`
 
 2.) Open the associated RStudio project by clicking on 'dplyr-joins.Rproj'
 
